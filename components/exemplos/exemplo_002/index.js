@@ -2,7 +2,7 @@ import { Text, View, Image } from 'react-native';
 
 import styles from './styles';
 
-import logo from '../../assets/002-1-react-native.png';
+import logo from '../../../assets/002-1-react-native.png';
 
 const Saudacoes = (props) => {
     return(
